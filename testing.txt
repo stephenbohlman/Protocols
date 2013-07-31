@@ -4,4 +4,4 @@ This is a change
 
 This is testing a branch
 
-Another branch test
+Another branch test (this is changing only the branch)
