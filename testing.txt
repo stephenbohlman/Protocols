@@ -3,3 +3,5 @@ testing
 This is a change
 
 This is testing a branch
+
+Another branch test (this is changing only the branch)
